@@ -13,5 +13,5 @@ All of the data is in 2 files: Train and Test. Train.csv contains 4 columns: Id,
 
 Dataset contains 6,034,195 rows. The columns in the table are: Id - Unique identifier for each question Title - The question's title Body - The body of the question Tags - The tags associated with the question in a space-seperated format (all lowercase, should not contain tabs '\t' or ampersands '&')
 
-
+Note: a very small part of code of creating functions for some basic NLP data cleaning were taken from Ajaysh123
 
